@@ -2,6 +2,7 @@
 
 - Pokemons library, an app with 2 navigations types (STACK & TABS navigations)
 - Customs hooks to fetch <a href="https://pokeapi.co/api/v2/pokemon">POKE API</a> 
+- FadeIn component, to show an infinite scroll of pokemons
 
 Snaps:
 1. Home Screen:
